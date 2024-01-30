@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3FBFF30-2BFB-4AEC-921A-6D3C1295B4A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Tugas_Besar_PBO</RootNamespace>
+    <AssemblyName>Tugas_Besar_PBO</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.2.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.21.9.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.21.9\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.3.5\lib\net462\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.3.5\lib\net462\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.8.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.8\lib\net462\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.2.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.2.0\lib\net462\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.4.4.1\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.7.0.2\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Pipelines.5.0.2\lib\net461\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZstdSharp, Version=0.7.1.0, Culture=neutral, PublicKeyToken=8d151af33a4ad5cf, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZstdSharp.Port.0.7.1\lib\net461\ZstdSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\DataDiamond.cs" />
+    <Compile Include="Controller\Diamond.cs" />
+    <Compile Include="Controller\Dimond_jasa.cs" />
+    <Compile Include="Controller\Jasa.cs" />
+    <Compile Include="Controller\Koneksi.cs" />
+    <Compile Include="Controller\Konfirmasis.cs" />
+    <Compile Include="Controller\Login.cs" />
+    <Compile Include="Model\M_Diamond_Jasa.cs" />
+    <Compile Include="Model\M_DataDiamond.cs" />
+    <Compile Include="Model\M_Diamond.cs" />
+    <Compile Include="Model\M_Jasa.cs" />
+    <Compile Include="Model\M_Konfirmasis.cs" />
+    <Compile Include="View\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Data_transaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Data_transaksi.Designer.cs">
+      <DependentUpon>Data_transaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Form_Konfirmasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Form_Konfirmasi.Designer.cs">
+      <DependentUpon>Form_Konfirmasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Form_jasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Form_jasa.Designer.cs">
+      <DependentUpon>Form_jasa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Form_Diamond.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Form_Diamond.Designer.cs">
+      <DependentUpon>Form_Diamond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Form_Data_Diamond.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Form_Data_Diamond.Designer.cs">
+      <DependentUpon>Form_Data_Diamond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\Form_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Form_Login.Designer.cs">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Form_Diamond_Joki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Form_Diamond_Joki.Designer.cs">
+      <DependentUpon>Form_Diamond_Joki.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Form_SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Form_SignUp.Designer.cs">
+      <DependentUpon>Form_SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Form_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Form_user.Designer.cs">
+      <DependentUpon>Form_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\parentform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\parentform.Designer.cs">
+      <DependentUpon>parentform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Form_Startup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Form_Startup.Designer.cs">
+      <DependentUpon>Form_Startup.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Data_transaksi.resx">
+      <DependentUpon>Data_transaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Form_Konfirmasi.resx">
+      <DependentUpon>Form_Konfirmasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Form_jasa.resx">
+      <DependentUpon>Form_jasa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Form_Diamond.resx">
+      <DependentUpon>Form_Diamond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Form_Data_Diamond.resx">
+      <DependentUpon>Form_Data_Diamond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Form_Login.resx">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Form_Diamond_Joki.resx">
+      <DependentUpon>Form_Diamond_Joki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Form_SignUp.resx">
+      <DependentUpon>Form_SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Form_user.resx">
+      <DependentUpon>Form_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\parentform.resx">
+      <DependentUpon>parentform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Form_Startup.resx">
+      <DependentUpon>Form_Startup.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chou_iori_yagami_by_makinig_dd4sgar-pre.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-wallpaper-mobile-legends-logo-transparent-background-legend-logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Top-Up-diamond-Mobile-Legends.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-01-02 144410.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mobile-legends-chou-iori-yagami-hd-wallpaper-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-01-10 at 14.24.05.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-01-30 at 07.25.53.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-01-30 at 07.25.17.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-01-30 at 07.30.38.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

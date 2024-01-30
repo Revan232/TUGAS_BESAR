@@ -1,0 +1,250 @@
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.exe.config
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.exe
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.pdb
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.AssemblyReference.cache
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.Properties.Resources.resources
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.parentform.resources
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.GenerateResource.cache
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.CoreCompileInputs.cache
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.exe
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.pdb
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_StartUp.resources
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\MySql.Data.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Buffers.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Memory.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\ZstdSharp.dll
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.pdb
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\MySql.Data.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Buffers.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Memory.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.Form_Data_Diamond.resources
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Login.resources
+C:\Users\Irgi Achmad Fauzi\Documents\project_uas_PBO\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.CopyComplete
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.exe.config
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.exe
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.pdb
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\BouncyCastle.Cryptography.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Hash.xxHash.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\MySql.Data.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Buffers.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.IO.Pipelines.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Memory.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Numerics.Vectors.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\ZstdSharp.dll
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\BouncyCastle.Cryptography.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.pdb
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Hash.xxHash.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\MySql.Data.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Buffers.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.IO.Pipelines.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Memory.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Numerics.Vectors.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.AssemblyReference.cache
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.Properties.Resources.resources
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.Form_Data_Diamond.resources
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Login.resources
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.parentform.resources
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_StartUp.resources
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.GenerateResource.cache
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.CoreCompileInputs.cache
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.CopyComplete
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.exe
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.pdb
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Formjasa.resources
+E:\p\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Formpembelian.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.exe
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.exe.config
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\MySql.Data.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Buffers.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Memory.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\ZstdSharp.dll
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.pdb
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\MySql.Data.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Buffers.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Memory.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.AssemblyReference.cache
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.Properties.Resources.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.Form_Data_Diamond.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Login.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_SignUp.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.parentform.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_StartUp.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.GenerateResource.cache
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.CoreCompileInputs.cache
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.CopyComplete
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.exe
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.pdb
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.pdb
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_jasa.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Diamond.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Diamond_Joki.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_data_transaksi_pembelian.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Data_transaksi.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Tugaspbo\Tugas_Besar_PBO\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.About.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.exe.config
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.exe
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.pdb
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\BouncyCastle.Cryptography.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\K4os.Hash.xxHash.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\MySql.Data.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Buffers.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.IO.Pipelines.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Memory.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Numerics.Vectors.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\ZstdSharp.dll
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\BouncyCastle.Cryptography.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.pdb
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\K4os.Hash.xxHash.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\MySql.Data.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Buffers.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.IO.Pipelines.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Memory.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Numerics.Vectors.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.AssemblyReference.cache
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.Properties.Resources.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.About.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Data_transaksi.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_data_transaksi_pembelian.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_jasa.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Diamond.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.Form_Data_Diamond.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Login.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Diamond_Joki.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_SignUp.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.parentform.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_StartUp.resources
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.GenerateResource.cache
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.CoreCompileInputs.cache
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.CopyComplete
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.exe
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.pdb
+E:\p\Matkul\Pbo\tugas besar\TUGAS_BESAR\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_user.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.exe.config
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.exe
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\MySql.Data.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Buffers.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Memory.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\ZstdSharp.dll
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.pdb
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\Google.Protobuf.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\MySql.Data.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Buffers.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Memory.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.AssemblyReference.cache
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.Properties.Resources.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.About.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Data_transaksi.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_jasa.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Diamond.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.Form_Data_Diamond.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Login.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Diamond_Joki.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_SignUp.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_user.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.parentform.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_StartUp.resources
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.GenerateResource.cache
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.CoreCompileInputs.cache
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.csproj.CopyComplete
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.exe
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.pdb
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\bin\Debug\Tugas_Besar_PBO.pdb
+C:\Users\Irgi Achmad Fauzi\Documents\greenfoot\TUGAS_BESAR-main\Tugas_Besar_PBO\obj\Debug\Tugas_Besar_PBO.View.Form_Konfirmasi.resources
